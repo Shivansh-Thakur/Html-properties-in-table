@@ -9,3 +9,5 @@ Some of the properties are listed below:
 3. Changing cell spacing
 4. Adding padding to the content inside table
 5. Merging two cells using colspan or rowspan
+
+https://shivansh-thakur.github.io/Html-properties-in-table/
