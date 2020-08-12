@@ -1,6 +1,6 @@
 # Html-properties-in-table
 
-This repository is about different html properties that can be added to our table, just to style the table <u><i>without using CSS</i></u>.
+This repository is about different html properties that can be added to our table, just to style the table <strong><i>without using CSS</i></strong>.
 
 Some of the properties are listed below:
 
