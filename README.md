@@ -1,6 +1,6 @@
 # Html-properties-in-table
 
-This repository is about different html properties that can be added to our table, just to style the table <i>without using CSS</i>.
+This repository is about different html properties that can be added to our table, just to style the table <u><i>without using CSS</i></u>.
 
 Some of the properties are listed below:
 
@@ -9,6 +9,6 @@ Some of the properties are listed below:
 3. Changing cell spacing
 4. Adding padding to the content inside table
 5. Merging two cells using colspan or rowspan
-
-Click on the <a href = "https://shivansh-thakur.github.io/Html-properties-in-table/"> Web page </a> to view the content.
-
+<hr>
+Click on the <a href = "https://shivansh-thakur.github.io/Html-properties-in-table/" target = "_blank"> Web page </a> to view the content.
+<hr>
