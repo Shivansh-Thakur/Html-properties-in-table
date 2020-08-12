@@ -3,6 +3,9 @@
 This repository is about different html properties that can be added to our table, just to style the table <strong><i>without using CSS</i></strong>.
 
 Some of the properties are listed below:
+<ul>
+  <li>Adding Border to table</li>
+</ul>
 
 1. Adding Border to table
 2. Adding some width to table
